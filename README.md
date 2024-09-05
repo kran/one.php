@@ -1,4 +1,4 @@
-```
+```php
 <?php
 
 define('APP', dirname(__DIR__).'/app');
